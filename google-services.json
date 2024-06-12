@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546638816676",
+    "project_id": "safely-4af5d",
+    "storage_bucket": "safely-4af5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546638816676:android:494bf029f1964c7e9e0d31",
+        "android_client_info": {
+          "package_name": "com.anugrahgupta.Safely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeyety3xzUwwFHU9FwM2cr6G2l3ZOTttE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
